@@ -1,1 +1,1 @@
-# Git Workflow Showcase - Edited by Account B
+# Git Workflow Showcase - Official Project
